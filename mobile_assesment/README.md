@@ -5,9 +5,9 @@ This is a Flutter-based grocery app developed for evaluation purposes. The app r
 
 ## Screenshots
 
-![Screenshot 1](/assets/images/splash.jpg)
-![Screenshot 2](/assets/images/homepage.jpg)
-![Screenshot 3](/assets/images/details.jpg)
+![Screenshot 1](./assets/images/splash.jpg)
+![Screenshot 2](./assets/images/homepage.jpg)
+![Screenshot 3](./assets/images/details.jpg)
 
 ## Features
 
